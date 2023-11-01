@@ -12,5 +12,7 @@
 6.The Hibernate way! ->
     JDBC Database configuration
     Model Object Object Annotations
-    Servoice method to create model object -> US \of Hibernate API
+    Servoice method to create model object -> US of Hibernate API
     Database design and DAO method not needed.
+ 7.Establish the JDBC connection provide all DB URLs:
+     
